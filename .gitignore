@@ -1,1 +1,9 @@
 **/.DS_Store
+src/SmartCalc/.qmake.stash
+src/SmartCalc/Makefile
+src/SmartCalc/moc/
+src/SmartCalc/obj/
+src/SmartCalc/test_obj/
+src/SmartCalc/ui_mainwindow.h
+src/SmartCalc_2.0.app/
+src/Test_SmartCalc_2.0
